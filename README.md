@@ -1,5 +1,62 @@
-# my-portfolio
-<img width="1342" height="52" alt="image" src="https://github.com/user-attachments/assets/c30fd724-8a98-47ab-9b78-e156c987aa82" />
+# My Portfolio Website
+
+A modern, responsive portfolio website built with HTML, CSS, and JavaScript showcasing my skills, education, projects, and contact information.
+
+## ✨ Features
+
+- **Responsive Design**: Fully optimized for all device sizes (desktop, tablet, mobile)
+- **Modern UI/UX**: Clean design with gradient backgrounds and smooth animations
+- **Smooth Scrolling**: Navigate between sections with smooth scroll behavior
+- **Interactive Elements**: Hover effects, button ripple animations, and fade-in animations
+- **Contact Form**: Functional contact form with validation and success feedback
+- **Timeline Education**: Visual timeline showing educational background
+- **Skills Grid**: Organized display of technical skills
+- **Project Showcase**: Cards displaying featured projects
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic markup and structure
+- **CSS3**: Modern styling with Flexbox, Grid, and CSS animations
+- **JavaScript (ES6+)**: Interactive functionality and form handling
+- **Font Awesome**: Icons for enhanced visual appeal
+- **Google Fonts**: Typography enhancement
+
+## 📁 Project Structure
+
+```
+portfolio-website/
+│
+├── index.html          # Main HTML file
+├── style.css           # CSS styles and responsive design
+├── script.js           # JavaScript functionality
+├── README.md           # Project documentation
+└── assets/             # Images and other assets (if any)
+```
+
+## 🎯 Sections
+
+1. **Navigation**: Fixed header with smooth scroll navigation
+2. **Hero**: Introduction with call-to-action
+3. **About**: Personal introduction and professional summary
+4. **Education**: Timeline of educational background
+5. **Skills**: Technical skills and competencies
+6. **Projects**: Showcase of featured projects
+7. **Contact**: Contact form with validation
+8. **Footer**: Copyright and contact links
+
+### Color Scheme
+
+The portfolio uses a modern gradient color scheme:
+- Primary: `#667eea` to `#764ba2`
+- Secondary: `#2d3748` to `#1a202c`
+- Accent: Various shades of blue and purple
+
+## 📱 Responsive Design
+
+The website is fully responsive with breakpoints at:
+- **Desktop**: 1024px and above
+- **Tablet**: 768px to 1023px
+- **Mobile**: 767px and below
 
 <img width="1347" height="671" alt="Screenshot 2025-07-14 165751" src="https://github.com/user-attachments/assets/c827e6a1-d109-433e-bf4e-3ae1ab279a8a" />
 
