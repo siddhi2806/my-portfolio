@@ -62,7 +62,7 @@ The website is fully responsive with breakpoints at:
 
 <img width="1339" height="641" alt="Screenshot 2025-07-14 165822" src="https://github.com/user-attachments/assets/837e2eec-7118-410c-8a3c-8412d14c705d" />
 
-<img width="1324" height="563" alt="Screenshot 2025-07-14 165858" src="https://github.com/user-attachments/assets/48dda89a-5841-4435-961a-0a562d2d4105" />
+<img width="1327" height="468" alt="image" src="https://github.com/user-attachments/assets/09a17d26-6207-4770-85cd-4a656df42cf1" />
 
 <img width="1331" height="611" alt="Screenshot 2025-07-14 170009" src="https://github.com/user-attachments/assets/acde9a1b-1247-4c3e-b395-a8fe24cdf6f3" />
 
