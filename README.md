@@ -30,7 +30,6 @@ portfolio-website/
 ├── style.css           # CSS styles and responsive design
 ├── script.js           # JavaScript functionality
 ├── README.md           # Project documentation
-└── assets/             # Images and other assets (if any)
 ```
 
 ## 🎯 Sections
